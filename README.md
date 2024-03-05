@@ -16,7 +16,7 @@ Here are some of the projects I've worked on:
 1. **Portfolio Website** - Designed and developed a personal portfolio website using HTML, CSS, and JavaScript to showcase my skills and projects.
 
 ## Contact Me
-Feel free to reach out to me via email at [maliksmcculler@gmail.com](mailto:maliksmmcculler) or connect with me on [LinkedIn](https://www.linkedin.com/in/malikmcculler).
+Feel free to reach out to me via email at [maliksmcculler@gmail.com](mailto:maliksmmcculler) or connect with me on [LinkedIn](https://www.linkedin.com/in/malik-mcculler).
 
 ## Let's Collaborate!
 I'm always eager to collaborate on interesting projects and contribute to open-source initiatives. If you have any exciting opportunities or ideas you'd like to discuss, don't hesitate to get in touch!
