@@ -3,12 +3,6 @@
 ## About Me
 Hello! I'm Malik McCuller, a passionate web developer dedicated to crafting engaging and user-friendly web experiences. With 5 years of experience in the field, I've worked on a variety of projects ranging from simple landing pages to complex web applications. My primary focus is on front-end development.
 
-## Skills
-- **Languages:** HTML, CSS, JavaScript
-- **Front-end Development:** React.js, Bootstrap, Sass
-- **Back-end Development:** Node.js, Express.js
-- **Version Control:** Git, GitHub
-- **Responsive Design:** Flexbox, CSS Grid
 
 ## Projects
 Here are some of the projects I've worked on:
