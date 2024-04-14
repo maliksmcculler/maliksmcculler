@@ -15,6 +15,9 @@ Here are some of the projects I've worked on:
 
 1. **Portfolio Website** - Designed and developed a personal portfolio website using HTML, CSS, and JavaScript to showcase my skills and projects.
 
+## Skills
+https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg
+
 ## Contact Me
 Feel free to reach out to me via email at [maliksmcculler@gmail.com](mailto:maliksmmcculler) or connect with me on [LinkedIn](https://www.linkedin.com/in/malik-mcculler).
 
