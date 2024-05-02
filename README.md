@@ -1,15 +1,9 @@
-# Welcome to Malik's GitHub Profile!
-
-## About Me
-Hello! I'm Malik McCuller, a passionate web developer dedicated to crafting engaging and user-friendly web experiences. With 5 years of experience in the field, I've worked on a variety of projects ranging from simple landing pages to complex web applications. My primary focus is on front-end development.
-
-
-## Projects
-Here are some of the projects I've worked on:
-
-1. **Portfolio Website** - Designed and developed a personal portfolio website using HTML, CSS, and JavaScript to showcase my skills and projects.
-
-## What I code with
+<!--
+<h2 align="center">
+  Welcome I'm Malik McCuller
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
 ## Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
